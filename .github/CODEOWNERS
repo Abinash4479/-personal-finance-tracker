@@ -1,0 +1,11 @@
+# Default owners
+* @your-org/core-reviewers
+
+# Security
+src/main/java/**/security/ @your-org/security-leads
+
+# Database/migrations
+src/main/resources/db/** @your-org/db-admins
+
+# Frontend
+web/** @your-org/frontend-team
